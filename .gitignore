@@ -10,3 +10,9 @@
 *.lai
 *.la
 *.a
+
+.DS_Store
+
+Video/Webkit.vpp~43
+
+Video/Webkit.vpp~44
